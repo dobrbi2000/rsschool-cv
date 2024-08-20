@@ -29,7 +29,7 @@ console.log(x);
 
 ## **Experience**
 
-**EPAM** 2021-present day
+- List **EPAM** 2021-present day
 
 ## **Education**
 
